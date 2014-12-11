@@ -1,0 +1,9 @@
+{
+	"name": "collaborative-whiteboard",
+	"version": "0.0.0",
+	"dependencies": {
+		"express": "4.x",
+		"socket.io": "1.x"
+	},
+	"author": "Asgeir Bjarnason"
+}
